@@ -22,6 +22,7 @@ Then you have to generate ssh key on the Host machine and its public key into th
 Then you have to add the host ip to ansible host file
 
 sudo nano /etc/ansible/hosts
+
 ansible all -m ping
 
 edit the neccecary files and run the ansible code
