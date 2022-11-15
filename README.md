@@ -1,5 +1,12 @@
+Deploy Wordpress + LAMP via Ansible via Terraform
+
+How to deploy:
+1. Terraform init 
+2. Terraform plan
+3. Terraform Apply
+
 # Ansible-Wordpress
-Deploy Wordpress via Ansible
+Deploy Wordpress + LAMP via Ansible
 
 How to deploy:
 
